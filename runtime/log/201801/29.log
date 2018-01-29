@@ -1,0 +1,1608 @@
+---------------------------------------------------------------
+[ 2018-01-29T11:57:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [64]Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+---------------------------------------------------------------
+[ 2018-01-29T11:57:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [64]Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+---------------------------------------------------------------
+[ 2018-01-29T11:57:12+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [64]Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+---------------------------------------------------------------
+[ 2018-01-29T11:57:12+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [64]Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+---------------------------------------------------------------
+[ 2018-01-29T11:57:12+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/ad/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ad` WHERE  `st` <> 0 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` <> 0 ORDER BY create_time desc LIMIT 0,10 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T11:57:16+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.010000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [64]Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+---------------------------------------------------------------
+[ 2018-01-29T11:57:43+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T13:31:06+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T13:32:15+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T13:32:25+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [64]Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+---------------------------------------------------------------
+[ 2018-01-29T13:33:41+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [64]Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+---------------------------------------------------------------
+[ 2018-01-29T14:30:34+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:30:42+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:31:44+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:31:51+08:00 ] ::1 ::1 GET /tangdou_gw/public/back
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin_log` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `admin_log` `al` INNER JOIN `admin` `admin` ON `al`.`admin_id`=`admin`.`id` LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT admin.name admin_name,`times`,`al`.* FROM `admin_log` `al` INNER JOIN `admin` `admin` ON `al`.`admin_id`=`admin`.`id` ORDER BY create_time desc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:31:54+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [64]Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+---------------------------------------------------------------
+[ 2018-01-29T14:34:04+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:34:06+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:34:06+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:34:07+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.011001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:34:33+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:35:21+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:35:22+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.005001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:35:22+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:35:23+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:35:23+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:35:23+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:35:43+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [64]Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+---------------------------------------------------------------
+[ 2018-01-29T14:36:41+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.009001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:37:40+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:38:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:40:10+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:40:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:40:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:40:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:40:40+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:40:41+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:40:41+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001001s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:40:41+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.005001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:40:41+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:41:28+08:00 ] ::1 ::1 POST /tangdou_gw/public/back/setting/save.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] UPDATE `setting`  SET `bg2word_1`='\"想在有酒有肉的日子',`bg2word_2`='款待没心没肺的自己\"',`bg3word_1`='\"吃都吃的没滋没味',`bg3word_2`='怎能活的有滋有味\"',`bg4word_1`='\"只要碗里满满的',`bg4word_2`='人生就不会空虚\"',`update_time`=1517208087  WHERE  `id` = 1 [ RunTime:0.126008s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:41:29+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:41:32+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:41:33+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.012000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.011001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:41:33+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.005001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:41:34+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:41:34+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:41:34+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:41:35+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.013001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.011001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.012001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:41:35+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:08+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:08+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:08+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:09+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:09+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:39+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:39+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:40+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:40+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:41+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:41+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:42:41+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:44:22+08:00 ] ::1 ::1 POST /tangdou_gw/public/back/setting/save.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001001s ]
+[ sql ] [ SQL ] INSERT INTO `setting` (`bg1word` , `bg2word_1` , `bg2word_2` , `bg3word_1` , `bg3word_2` , `bg4word_1` , `bg4word_2` , `bg5word_1` , `bg5word_2` , `beian` , `create_time` , `update_time`) VALUES ('糖豆   —   做点自己喜欢的事儿' , '\"想在有酒有肉的日子' , '款待没心没肺的自己\"' , '\"吃都吃的没滋没味' , '怎能活的有滋有味\"' , '\"只要碗里满满的' , '人生就不会空虚\"' , '糖豆' , '随时随地选择您的专属套餐' , '版权所有：北京未来和讯信息科技有限公司　京ICP备16058967号-1' , 1517208262 , 1517208262) [ RunTime:0.143008s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:44:23+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:13+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:14+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:14+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:14+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:15+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:15+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:15+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:15+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:15+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:15+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:30+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:31+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:31+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:31+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:31+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:31+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:31+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:45:36+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:46:45+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:46:46+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:46:46+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.010000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.009001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:47:16+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:47:33+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:09+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.005001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:10+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001001s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001001s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:11+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001001s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:12+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:12+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:12+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:12+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:12+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:12+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:13+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:13+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001001s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:13+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:48:41+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:49:04+08:00 ] ::1 ::1 POST /tangdou_gw/public/back/setting/save.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] UPDATE `setting`  SET `bg2word1`='北京未来和讯信息科技有限',`bg2word2`='款待没心没肺的自己',`update_time`=1517208543  WHERE  `id` = 1 [ RunTime:0.088005s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:49:05+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001001s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:49:17+08:00 ] ::1 ::1 POST /tangdou_gw/public/back/setting/save.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] UPDATE `setting`  SET `bg2word1`='想在有酒有肉的日子',`update_time`=1517208557  WHERE  `id` = 1 [ RunTime:0.264015s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:49:18+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.009001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:49:25+08:00 ] ::1 ::1 POST /tangdou_gw/public/back/setting/save.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001001s ]
+[ sql ] [ SQL ] UPDATE `setting`  SET `bg2word1`='\"想在有酒有肉的日子',`update_time`=1517208565  WHERE  `id` = 1 [ RunTime:0.134007s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:49:26+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:50:00+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:50:01+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:50:01+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:50:01+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:50:01+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:56:14+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:57:14+08:00 ] ::1 ::1 POST /tangdou_gw/public/back/setting/save.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] UPDATE `setting`  SET `bg2word1`='&quot;想在有酒有肉的日子',`bg2word2`='款待没心没肺的自己&quot;',`bg3word1`='&quot;吃都吃的没滋没味',`bg3word2`='怎能活的有滋有味&quot;',`bg4word1`='&quot;只要碗里满满的',`bg4word2`='人生就不会空虚&quot;',`update_time`=1517209034  WHERE  `id` = 1 [ RunTime:0.089006s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:57:15+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:58:21+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:58:30+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:58:43+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:58:49+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:59:27+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T14:59:49+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:00:07+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:00:13+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.011001s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.010001s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.010001s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:00:14+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.010000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001001s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:00:36+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:00:51+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.006001s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:00:54+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:01:21+08:00 ] ::1 ::1 POST /tangdou_gw/public/back/setting/save.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] UPDATE `setting`  SET `bg2word1`='&quot;想在有酒有肉的日子a',`update_time`=1517209281  WHERE  `id` = 1 [ RunTime:0.121007s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:01:22+08:00 ] ::1 ::1 GET /tangdou_gw/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 18 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 19 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friend` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `friend` WHERE  `st` <> 0  AND `type` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `friend` WHERE  `st` <> 0  AND `type` = 1 ORDER BY create_time asc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nav` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `nav` WHERE  `st` = 1 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 1 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 2 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 3 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 4 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 5 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 6 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 7 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 8 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` = 1  AND `position` = 9 ORDER BY create_time desc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:01:22+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:02:45+08:00 ] ::1 ::1 POST /tangdou_gw/public/back/setting/save.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] UPDATE `setting`  SET `bg2word1`='&quot;想在有酒有肉的日子',`update_time`=1517209364  WHERE  `id` = 1 [ RunTime:0.253014s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:02:46+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.009001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.010001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:04:10+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:04:15+08:00 ] ::1 ::1 GET /tangdou_gw/public/back
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin_log` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `admin_log` `al` INNER JOIN `admin` `admin` ON `al`.`admin_id`=`admin`.`id` LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT admin.name admin_name,`times`,`al`.* FROM `admin_log` `al` INNER JOIN `admin` `admin` ON `al`.`admin_id`=`admin`.`id` ORDER BY create_time desc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:04:23+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/ad/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ad` WHERE  `st` <> 0 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` <> 0 ORDER BY create_time desc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.013000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001001s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:04:24+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:04:25+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/ad/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ad` WHERE  `st` <> 0 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` <> 0 ORDER BY create_time desc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:04:26+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:04:31+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/ad/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.011000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ad` WHERE  `st` <> 0 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` <> 0 ORDER BY create_time desc LIMIT 0,10 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.012001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:05:09+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/admin/edit.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:05:10+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/setting/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `setting` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `setting` ORDER BY create_time asc LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2018-01-29T15:05:13+08:00 ] ::1 ::1 GET /tangdou_gw/public/back/ad/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=tangdou_gw;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ad` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ad` WHERE  `st` <> 0 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `ad` WHERE  `st` <> 0 ORDER BY create_time desc LIMIT 0,10 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `menu_admin` [ RunTime:0.007001s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 0 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 19 ORDER BY sort asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 23 ORDER BY sort asc [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `menu_admin` WHERE  `pid` = 32 ORDER BY sort asc [ RunTime:0.000000s ]

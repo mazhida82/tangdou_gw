@@ -1,0 +1,95 @@
+{extend name='public:base' /}
+{block name="title"}网站设置{/block}
+
+{block name="content"}
+<style>
+    .control-label {
+        padding-right: 10px;
+    }
+</style>
+<!--弹出添加用户窗口-->
+<form class="form-horizontal" action="{:url($act)}" method="post" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-xs-8">
+            <div class="text-center">
+                <h4 class="modal-title" id="gridSystemModalLabel">平台设置</h4>
+            </div>
+            <div class="">
+                <div class="container-fluid">
+                    <div class="form-group ">
+                        <label  class="col-xs-5 control-label">背景1-文字：</label>
+                        <div class="col-xs-7 ">
+                            <input type="text" class="form-control input-sm " name='bg1word' value="{$list->bg1word|default=''}" >
+                        </div>
+                    </div>
+                    <div class="form-group ">
+                        <label  class="col-xs-5 control-label">背景2-文字1：</label>
+                        <div class="col-xs-7 ">
+                            <input type="text" class="form-control input-sm " name='bg2word1' value="{$list->bg2word1|default=''}" >
+                        </div>
+                    </div>
+                    <div class="form-group ">
+                        <label  class="col-xs-5 control-label">背景2-文字2：</label>
+                        <div class="col-xs-7 ">
+                            <input type="text" class="form-control input-sm " name='bg2word2' value="{$list->bg2word2|default=''}" >
+                        </div>
+                    </div>
+                    <div class="form-group ">
+                        <label  class="col-xs-5 control-label">背景3-文字1：</label>
+                        <div class="col-xs-7 ">
+                            <input type="text" class="form-control input-sm " name='bg3word1' value="{$list->bg3word1|default=''}" >
+                        </div>
+                    </div>
+                    <div class="form-group ">
+                        <label  class="col-xs-5 control-label">背景3-文字2：</label>
+                        <div class="col-xs-7 ">
+                            <input type="text" class="form-control input-sm " name='bg3word2' value="{$list->bg3word2|default=''}" >
+                        </div>
+                    </div>
+                    <div class="form-group ">
+                        <label  class="col-xs-5 control-label">背景4-文字1：</label>
+                        <div class="col-xs-7 ">
+                            <input type="text" class="form-control input-sm " name='bg4word1' value="{$list->bg4word1|default=''}" >
+                        </div>
+                    </div>
+                    <div class="form-group ">
+                        <label  class="col-xs-5 control-label">背景4-文字2：</label>
+                        <div class="col-xs-7 ">
+                            <input type="text" class="form-control input-sm " name='bg4word2' value="{$list->bg4word2|default=''}" >
+                        </div>
+                    </div>
+                    <div class="form-group ">
+                        <label  class="col-xs-5 control-label">背景5-文字1：</label>
+                        <div class="col-xs-7 ">
+                            <input type="text" class="form-control input-sm " name='bg5word1' value="{$list->bg5word1|default=''}" >
+                        </div>
+                    </div>
+                    <div class="form-group ">
+                        <label  class="col-xs-5 control-label">背景5-文字2：</label>
+                        <div class="col-xs-7 ">
+                            <input type="text" class="form-control input-sm " name='bg5word2' value="{$list->bg5word2|default=''}" >
+                        </div>
+                    </div>
+                    <div class="form-group ">
+                        <label  class="col-xs-5 control-label">备案号：</label>
+                        <div class="col-xs-7 ">
+                            <input type="text" class="form-control input-sm " name='beian' value="{$list->beian|default=''}" >
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <button type="reset" class="btn btn-xs btn-white" data-dismiss="modal">取消</button>
+                        <button type="submit" cla="btn btn-xs btn-green">修  改</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</form>
+
+<script>
+
+</script>
+
+{/block}
